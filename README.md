@@ -111,6 +111,12 @@ See [`case-studies/09-read-only-forensic-diagnostics.md`](case-studies/09-read-o
 
 Upstream projects (Odoo Community, OCA modules, and other vendors) are **referenced**, not redistributed here. See [`NOTICE`](NOTICE).
 
+## License
+
+Original documentation, case studies, and synthetic examples in this repository are licensed under the **Apache License, Version 2.0**. See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+
+Referenced third-party projects keep their own licenses; this repository does not redistribute their source trees.
+
 ## Security reporting
 
 See [`SECURITY.md`](SECURITY.md).

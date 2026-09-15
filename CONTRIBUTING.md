@@ -18,6 +18,10 @@ Thank you for helping improve this engineering showcase.
 - Screenshots with identifiable business documents
 - “Fixes” that require publishing proprietary compliance algorithms
 
+## License of contributions
+
+Unless you state otherwise in writing, contributions you submit are offered under the same Apache License, Version 2.0 that covers this repository (see [`LICENSE`](LICENSE)).
+
 ## Process
 
 1. Open an issue describing the documentation gap.

@@ -1,27 +1,51 @@
-# NOTICE
+Community ERP Platform — Engineering Showcase
+Copyright 2026 Community ERP Platform contributors
 
-## Nature of this repository
+This product includes original material developed for this public repository.
+Licensed under the Apache License, Version 2.0. See the LICENSE file.
 
-This repository contains **original documentation**, **rewritten engineering case studies**, and **synthetic examples** created for the Community ERP Platform engineering showcase.
+-------------------------------------------------------------------------------
 
-It does **not** redistribute the private Community ERP Platform application source code, database dumps, filestore, or operational credentials.
+1. Original material in this repository
 
-## Upstream projects (reference only)
+   The following classes of content are original works of the Community ERP
+   Platform contributors, unless a file states otherwise:
 
-The following projects are mentioned as industry context. This repository does **not** claim ownership of their code and does **not** ship their source trees:
+   - Architecture, security, governance, DevOps, testing, and domain
+     engineering documentation under docs/
+   - Engineering case studies under case-studies/
+   - Repository policy files (README.md, SECURITY.md, CONTRIBUTING.md,
+     diagrams/, evidence/, and GitHub issue templates)
 
-- Odoo Community Edition — https://github.com/odoo/odoo
-- Odoo Community Association (OCA) ecosystem modules — https://github.com/OCA
-- Other third-party Odoo addon publishers referenced in engineering literature
+2. Synthetic / reference examples
 
-Links are for attribution and learning. **No affiliation, partnership, membership, endorsement, or certification** is implied.
+   Files under examples/ are intentionally fictional teaching aids
+   (placeholder hostnames, database names, secrets, and XML snippets).
+   They are original to this repository. They are not production
+   configuration, not extracted private ERP source, and not redistributed
+   third-party module trees.
 
-## Licensing posture
+3. Third-party projects referenced (not redistributed)
 
-Documentation and synthetic examples in this repository are original works of the Community ERP Platform engineering team.
+   This repository discusses industry context and may name upstream
+   projects. Naming a project is not redistribution of that project’s
+   source, and does not relicense that project’s code.
 
-Final SPDX / LICENSE selection for documentation and examples is recorded in [`LICENSE`](LICENSE) as an explicit decision placeholder until formal Owner approval of a permanent license text.
+   Referenced for context only (non-exhaustive):
 
-## Redistribution boundary
+   - Odoo Community Edition — https://github.com/odoo/odoo
+   - Odoo Community Association (OCA) ecosystem — https://github.com/OCA
 
-Do **not** assume permission to copy proprietary private ERP modules, compliance signing implementations, SSO secret handling, or customer datasets into this or any other public repository.
+   Those projects remain under their own licenses. This repository does
+   not ship their source trees and does not copy their LICENSE files,
+   because their code is not included here.
+
+   No affiliation, partnership, membership, endorsement, or certification
+   by Odoo S.A., the OCA, or any other third party is claimed or implied.
+
+-------------------------------------------------------------------------------
+
+Trademarks
+
+Product names, logos, and trademarks mentioned in documentation belong to
+their respective owners and are used only for identification and reference.
