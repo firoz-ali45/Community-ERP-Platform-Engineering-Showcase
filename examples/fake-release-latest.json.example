@@ -1,0 +1,9 @@
+{
+  "contract_version": "example-1",
+  "environment": "Example-Sandbox",
+  "git_sha": "0000000000000000000000000000000000000000",
+  "source_branch": "example-release-line",
+  "release_id": "example-release-19700101T000000Z",
+  "runtime_contract": "example-pass",
+  "notes": "Fictional authority record for documentation only."
+}

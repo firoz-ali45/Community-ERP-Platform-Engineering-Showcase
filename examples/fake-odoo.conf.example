@@ -1,0 +1,14 @@
+[options]
+admin_passwd = change_me
+list_db = False
+dbfilter = ^example-db$
+db_host = example.internal
+db_port = 5432
+db_user = example_user
+db_password = change_me
+proxy_mode = True
+workers = 0
+; Cron must remain enabled for scheduled domain jobs (quality, queues, mail, etc.).
+max_cron_threads = 1
+without_demo = all
+http_port = 8069

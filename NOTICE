@@ -1,0 +1,27 @@
+# NOTICE
+
+## Nature of this repository
+
+This repository contains **original documentation**, **rewritten engineering case studies**, and **synthetic examples** created for the Community ERP Platform engineering showcase.
+
+It does **not** redistribute the private Community ERP Platform application source code, database dumps, filestore, or operational credentials.
+
+## Upstream projects (reference only)
+
+The following projects are mentioned as industry context. This repository does **not** claim ownership of their code and does **not** ship their source trees:
+
+- Odoo Community Edition — https://github.com/odoo/odoo
+- Odoo Community Association (OCA) ecosystem modules — https://github.com/OCA
+- Other third-party Odoo addon publishers referenced in engineering literature
+
+Links are for attribution and learning. **No affiliation, partnership, membership, endorsement, or certification** is implied.
+
+## Licensing posture
+
+Documentation and synthetic examples in this repository are original works of the Community ERP Platform engineering team.
+
+Final SPDX / LICENSE selection for documentation and examples is recorded in [`LICENSE`](LICENSE) as an explicit decision placeholder until formal Owner approval of a permanent license text.
+
+## Redistribution boundary
+
+Do **not** assume permission to copy proprietary private ERP modules, compliance signing implementations, SSO secret handling, or customer datasets into this or any other public repository.

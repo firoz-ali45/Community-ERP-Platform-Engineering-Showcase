@@ -1,0 +1,17 @@
+# LICENSE — DECISION PLACEHOLDER (NOT A FINAL SPDX GRANT)
+
+Status: **TEMPORARY PLACEHOLDER** pending formal Owner / legal approval of a permanent license
+for documentation and synthetic examples in this repository.
+
+Until a permanent LICENSE file is approved:
+
+1. All rights that are not expressly granted remain reserved by the copyright holders.
+2. You may read this public repository for evaluation and learning.
+3. Do not assume permission to relicense, sublicense, or republish the contents under LGPL, AGPL,
+   MIT, Apache-2.0, or any other SPDX identifier.
+4. Do not copy third-party Odoo/OCA/vendor source into this repository.
+
+When a permanent license is approved, this placeholder MUST be replaced in a dedicated commit
+that updates NOTICE consistency checks.
+
+Contact: see SECURITY.md for security issues; use GitHub Issues for documentation questions.
